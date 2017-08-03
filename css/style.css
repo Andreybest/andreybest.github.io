@@ -213,6 +213,11 @@ nav li a:hover{
 /*    END   */
 
 /*   RESPONSIVE   */
+@media screen and (max-width: 1370px){
+	.text-red-block{
+		padding-right: 300px;
+	}
+}
 @media screen and (max-width: 1060px){
     .logo,
     .static-info{
